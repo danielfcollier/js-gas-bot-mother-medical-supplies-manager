@@ -10,7 +10,7 @@ If any medicin is ending in the next 10 days, the script sends an email message 
 
 The main routine is:
 
-```
+```javascript
 function manageMedicalSupplies() {
   let endingSupplies;
 
